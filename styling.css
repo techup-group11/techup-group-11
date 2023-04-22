@@ -7,8 +7,12 @@
     background-color: #247BA0;
 }
 
+#mes {
+    text-align: center;
+    background-color: #094074;
+}
 #foto1 {
-    width: 100%;
+    width: 400px;
       height: auto;
     display: block;
     margin-left: auto;
@@ -17,7 +21,7 @@
 
 ul {
     float: right;
-    background-color: #247BA0;
+    background-color: white;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,14 +33,14 @@ li {
 
 li a {
     display: block;
-    color: #5ADBFF;
+    color: red;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: #5ADBFF;
+    background-color: black;
     height: 22px;
     color: #247BA0;
 }
@@ -64,4 +68,7 @@ th {
     background-color: #5ADBFF;
     padding: 0.5em;
     text-align: right;
+}
+.festa {
+    color: whitesmoke;
 }
